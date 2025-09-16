@@ -11,7 +11,7 @@ export default function Nav() {
         <>
             <nav className="w-full h-[70px] xl:flex hidden ">
                 <div className="w-[15%] h-full  px-10">
-                    <img src="./logo/logo.png" alt="" className="w-12" />
+                    <img src="/logo/logo.png" alt="" className="w-12" />
                 </div>
                 <div className="w-[70%] h-full ">
                     <ul className="flex justify-evenly items-center h-full text-xl font-medium ">
